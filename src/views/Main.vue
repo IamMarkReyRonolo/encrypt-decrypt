@@ -29,7 +29,7 @@
 
 		methods: {
 			goToLink() {
-				window.open("https://github.com/IamMarkReyRonolo");
+				window.open("https://github.com/IamMarkReyRonolo/encrypt-decrypt");
 			},
 		},
 	};
